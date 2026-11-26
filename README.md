@@ -57,8 +57,6 @@ there's still plenty of room for improvement, and that's part of the fun. i hope
 
 ✦ AI disclosure
 
-AI assistance was used to help draft and organize this README.
-
 The website's implementation and actual features are documented based on the source code in this repository.
 
 ✦ a little note
